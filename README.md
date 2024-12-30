@@ -29,22 +29,6 @@
 
 3. **Visualization**: Routes are displayed in real-time, with paths, obstacles, and exits clearly marked.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/EvacuationRouteFinder.git
-   cd EvacuationRouteFinder
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pygame networkx
-   ```
-3. Run the application:
-   ```bash
-   python final.py
-   ```
-
 ## Controls
 
 ### Viewing Mode
@@ -71,7 +55,3 @@
 - Integration with real-time sensors for automated path updates.
 - Support for 3D building layouts.
 - Machine learning models for predicting evacuation patterns.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
